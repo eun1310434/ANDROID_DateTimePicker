@@ -43,7 +43,7 @@ public class DateTimePicker extends LinearLayout {
 	public interface OnDateTimeChangedListener {
 		void onDateTimeChanged(DateTimePicker view, int year, int monthOfYear, int dayOfYear, int hourOfDay, int minute);
 	}
-	
+
 	//리스너 객체
 	private OnDateTimeChangedListener listener; //
 	
