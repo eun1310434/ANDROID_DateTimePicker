@@ -1,11 +1,11 @@
 /*=====================================================================
-□ Infomation
+□ INFORMATION
   ○ Data : 08.03.2018
   ○ Mail : eun1310434@naver.com
   ○ Blog : https://blog.naver.com/eun1310434
   ○ Reference : Do it android app Programming
 
-□ Function
+□ FUNCTION
   ○ 날짜와 시간을 한꺼번에 선택하는 복합위젯 클래스 정의
   ○ 날짜 선택시 전시 설정
   ○ 시간 선택시 전시 설정
@@ -14,7 +14,7 @@
      - 복합으로 정의 하여
      - 날짜나 시간이 바뀔 때 호출되는 리스너 새로 정의
 
-□ Study
+□ STUDY
   ○
 =====================================================================*/
 package com.eun1310434.datetimepicker;
